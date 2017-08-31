@@ -1,0 +1,26 @@
+## Interface: 70100
+## Title: GuildManager
+## Version: 7.1.0
+## Revision: 12052015
+## Author: Yottabyte
+## X-Date: 11-13-2016-1200EST
+## Notes: For all your guild managment needs!
+## X-Category: Guild
+## X-License: As-Is Free Use And Distribution
+## X-Curse-Packaged-Version: 7.1.0
+## X-Curse-Project-Name: GuildManager
+## X-Curse-Project-ID: guild-manager
+## X-Curse-Repository-ID: wow/guild-manager/mainline
+## DefaultState: enabled
+## LoadOnDemand: 0
+## SavedVariables: GuildManagerDB
+## OptionalDeps: Ace3
+## LoadManagers: AddonLoader
+## X-LoadOn-Guild: true
+## X-LoadOn-Slash: /GuildManager, /gm
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+GuildManager.lua
