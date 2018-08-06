@@ -1,6 +1,7 @@
 # world-of-warcraft
 Addons for world of warcraft
 
-Repos
+Addons
 
 https://github.com/robgha01/TrufiGCD
+https://github.com/robgha01/QuickQuest
