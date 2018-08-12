@@ -7,4 +7,4 @@ Addons
 
 * https://github.com/robgha01/TrufiGCD
 * https://github.com/robgha01/QuickQuest
-* https://github.com/robgha01/InvationWatch/ (need testing but should work)
+* https://github.com/robgha01/InvationWatch/
