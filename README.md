@@ -8,6 +8,7 @@ Addons
 * https://github.com/robgha01/TrufiGCD
 * https://github.com/robgha01/QuickQuest
 * https://github.com/robgha01/InvationWatch/
+* https://github.com/robgha01/TradeSkillMaster
 
 Developer Tools
 * https://github.com/robgha01/ViragDevTool
