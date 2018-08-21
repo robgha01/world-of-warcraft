@@ -9,6 +9,7 @@ Addons
 * https://github.com/robgha01/QuickQuest
 * https://github.com/robgha01/InvationWatch/
 * https://github.com/robgha01/TradeSkillMaster
+* https://github.com/robgha01/RaidInviteOrganizer
 
 Developer Tools
 * https://github.com/robgha01/ViragDevTool
