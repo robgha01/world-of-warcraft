@@ -12,6 +12,9 @@ Addons
 * https://github.com/robgha01/RaidInviteOrganizer
 * https://github.com/robgha01/InFlight
 
+Libs
+* https://github.com/robgha01/World-of-Warcraft-Data-Store
+
 Developer Tools
 * https://github.com/robgha01/ViragDevTool
 
