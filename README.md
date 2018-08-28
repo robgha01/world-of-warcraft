@@ -10,6 +10,7 @@ Addons
 * https://github.com/robgha01/InvationWatch/
 * https://github.com/robgha01/TradeSkillMaster
 * https://github.com/robgha01/RaidInviteOrganizer
+* https://github.com/robgha01/InFlight
 
 Developer Tools
 * https://github.com/robgha01/ViragDevTool
