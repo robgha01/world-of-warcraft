@@ -11,6 +11,7 @@ Addons
 * https://github.com/robgha01/TradeSkillMaster
 * https://github.com/robgha01/RaidInviteOrganizer
 * https://github.com/robgha01/InFlight
+* https://github.com/robgha01/ElvUI_AreasisLayouts
 
 Libs
 * https://github.com/robgha01/World-of-Warcraft-Data-Store
