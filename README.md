@@ -12,6 +12,7 @@ Addons
 * https://github.com/robgha01/RaidInviteOrganizer
 * https://github.com/robgha01/InFlight
 * https://github.com/robgha01/ElvUI_AreasisLayouts
+* https://github.com/robgha01/Icetip
 
 Libs
 * https://github.com/robgha01/World-of-Warcraft-Data-Store
