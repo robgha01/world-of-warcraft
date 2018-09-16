@@ -13,6 +13,7 @@ Addons
 * https://github.com/robgha01/InFlight
 * https://github.com/robgha01/ElvUI_AreasisLayouts
 * https://github.com/robgha01/Icetip
+* https://github.com/robgha01/AutoAcceptEnchantReplace
 
 Libs
 * https://github.com/robgha01/World-of-Warcraft-Data-Store
