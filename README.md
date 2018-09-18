@@ -14,6 +14,8 @@ Addons
 * https://github.com/robgha01/ElvUI_AreasisLayouts
 * https://github.com/robgha01/Icetip
 * https://github.com/robgha01/AutoAcceptEnchantReplace
+* https://github.com/robgha01/GatherMate2/
+* https://github.com/robgha01/Routes
 
 Libs
 * https://github.com/robgha01/World-of-Warcraft-Data-Store
