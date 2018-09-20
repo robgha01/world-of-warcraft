@@ -1,6 +1,6 @@
 # Backported addons for world of warcraft
 
->Use the latest fix for a addon by going directly to its repository
+>Use the latest fix for a addon by going directly to its repository below.
 
 ## Events
 * https://github.com/robgha01/InvationWatch/
