@@ -1,5 +1,4 @@
-# world-of-warcraft
-Addons for world of warcraft
+# Backported addons for world of warcraft
 
 >Use the latest fix for a addon by going directly to its repository
 
