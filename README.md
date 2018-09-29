@@ -1,4 +1,4 @@
-# Backported addons for world of warcraft
+# Backports and my addons for world of warcraft
 
 >Use the latest fix for a addon by going directly to its repository below.
 
@@ -28,6 +28,7 @@
 
 ## ElvUI
 * https://github.com/robgha01/ElvUI_AreasisLayouts
+* https://github.com/robgha01/ElvUI_EnergyRageBars
 
 ## Data Mods
 * https://github.com/robgha01/InFlight
