@@ -27,6 +27,7 @@
 * https://github.com/robgha01/TrufiGCD
 
 ## ElvUI
+* https://github.com/robgha01/ElvUI
 * https://github.com/robgha01/ElvUI_AreasisLayouts
 * https://github.com/robgha01/ElvUI_EnergyRageBars
 
