@@ -2,6 +2,9 @@
 
 >Use the latest fix for a addon by going directly to its repository below.
 
+## Addons that fix bliz failures
+* https://github.com/robgha01/Focuser (Shift + Click focusing)
+
 ## Events
 * https://github.com/robgha01/InvationWatch/
 
