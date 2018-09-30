@@ -7,6 +7,7 @@
 
 ## Guild
 * https://github.com/robgha01/RaidInviteOrganizer
+* https://github.com/robgha01/SuperGuildInvite
 
 ## Auction & Economy
 * https://github.com/robgha01/TradeSkillMaster
