@@ -35,6 +35,9 @@
 * https://github.com/robgha01/ElvUI_AreasisLayouts
 * https://github.com/robgha01/ElvUI_EnergyRageBars
 
+## Miscellaneous
+https://github.com/robgha01/DynamicCam
+
 ## Data Mods
 * https://github.com/robgha01/InFlight
 
