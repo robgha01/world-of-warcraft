@@ -36,8 +36,8 @@
 * https://github.com/robgha01/ElvUI_EnergyRageBars
 
 ## Miscellaneous
-https://github.com/robgha01/DynamicCam
-https://github.com/robgha01/RaidBrowser
+* https://github.com/robgha01/DynamicCam
+* https://github.com/robgha01/RaidBrowser
 
 ## Data Mods
 * https://github.com/robgha01/InFlight
