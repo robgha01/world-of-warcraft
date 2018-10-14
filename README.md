@@ -25,6 +25,7 @@
 
 ## Quests & Leveling
 * https://github.com/robgha01/QuickQuest
+* https://github.com/robgha01/ObjectiveAnnouncer
 
 ## Unit Frames
 * https://github.com/robgha01/MistrasDiabloOrbs
